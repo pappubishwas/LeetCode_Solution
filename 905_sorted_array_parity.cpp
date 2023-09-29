@@ -1,6 +1,5 @@
-#include <iostream>
-#include <vector>
-
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     std::vector<int> sortArrayByParity(std::vector<int>& nums) {
