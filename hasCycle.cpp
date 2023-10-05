@@ -1,6 +1,4 @@
-#include <iostream>
-#include <unordered_set>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 // Definition for singly-linked list.
